@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [2026-04-08 21:37:04] Login: admin
 [2026-04-08 21:37:33] ADD student 1 — gg
 [2026-04-08 22:02:33] EXPORT CSV 1 records → C:/Users/DHARANIDHARAN/Downloads/business-operations-survey-2022-price-and-wage-setting.csv
@@ -7,3 +8,8 @@
 [2026-04-09 12:06:22] ADD student 2 — joel
 [2026-04-09 12:06:44] UPDATE student 2
 [2026-04-09 12:06:52] UPDATE student 2
+=======
+[2026-03-23 20:24:51] Login: admin
+[2026-03-23 20:25:26] ADD student urk1 — dd
+[2026-03-23 20:26:03] DELETE student id=1 (dd)
+>>>>>>> 7158f912511cb6df616c6db0d2a0cef4a2748b6b
