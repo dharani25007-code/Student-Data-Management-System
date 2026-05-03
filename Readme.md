@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Student%20Data%20Management%20System&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desktop%20ERP%20for%20Educational%20Institutions&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
