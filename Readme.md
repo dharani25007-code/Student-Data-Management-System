@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Student%20Data%20Management%20System&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desktop%20ERP%20for%20Educational%20Institutions&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Student%20Data%20Management%20System&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desktop%20ERP%20for%20Educational%20Institutions&descAlignY=58&descSize=18" width="100%"/>  
 <br/>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E8C547&center=true&vCenter=true&multiline=false&width=700&lines=🎓+Student+Records+Management;📝+Marks+%26+Grade+Tracking;📅+Daily+Attendance+Monitoring;💰+Fee+%26+Payment+Management;🔐+Role-Based+Login+System;📊+CSV+Import+%2F+Export;🌙+Dark-Themed+Desktop+GUI)](https://git.io/typing-svg)
 
 <br/>
