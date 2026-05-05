@@ -6,6 +6,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E8C547&center=true&vCenter=true&multiline=false&width=700&lines=🎓+Student+Records+Management;📝+Marks+%26+Grade+Tracking;📅+Daily+Attendance+Monitoring;💰+Fee+%26+Payment+Management;🔐+Role-Based+Login+System;📊+CSV+Import+%2F+Export;🌙+Dark-Themed+Desktop+GUI)](https://git.io/typing-svg)
 
+
 <br/>
 
 <p>
